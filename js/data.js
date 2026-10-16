@@ -20,7 +20,7 @@ window.PORTFOLIO = {
     phone: "044 804 136",
     linkedin: "https://www.linkedin.com/in/gresa-paci",
     github: "https://github.com/gresapaci?tab=repositories",
-    portfolio: ""
+    portfolio: "https://gresapaci.github.io/portfolio/"
   },
 
   /* ---------- SKILLS -------------------------------------------------------
@@ -28,24 +28,36 @@ window.PORTFOLIO = {
      sq.items must have the same number of entries as items.
   ------------------------------------------------------------------------- */
   skills: [
-    { icon: "code", title: "Frontend Development",
+    {
+      icon: "code", title: "Frontend Development",
       items: ["HTML5", "CSS3", "JavaScript", "Vue.js", "Responsive Web Design"],
-      sq: { title: "Zhvillim Frontend", items: ["HTML5", "CSS3", "JavaScript", "Vue.js", "Dizajn Web Responsive"] } },
-    { icon: "server", title: "Backend & APIs",
+      sq: { title: "Zhvillim Frontend", items: ["HTML5", "CSS3", "JavaScript", "Vue.js", "Dizajn Web Responsive"] }
+    },
+    {
+      icon: "server", title: "Backend & APIs",
       items: ["PHP", "Laravel", "Node.js", "API Integration"],
-      sq: { title: "Backend & API", items: ["PHP", "Laravel", "Node.js", "Integrim API"] } },
-    { icon: "database", title: "Databases & Development Tools",
+      sq: { title: "Backend & API", items: ["PHP", "Laravel", "Node.js", "Integrim API"] }
+    },
+    {
+      icon: "database", title: "Databases & Development Tools",
       items: ["MySQL", "SQL", "Docker"],
-      sq: { title: "Baza të të dhënave & Mjete zhvillimi", items: ["MySQL", "SQL", "Docker"] } },
-    { icon: "pen", title: "UI/UX Design",
+      sq: { title: "Baza të të dhënave & Mjete zhvillimi", items: ["MySQL", "SQL", "Docker"] }
+    },
+    {
+      icon: "pen", title: "UI/UX Design",
       items: ["Figma", "Wireframing", "Prototyping", "Interface Design"],
-      sq: { title: "Dizajn UI/UX", items: ["Figma", "Wireframing", "Prototipizim", "Dizajn ndërfaqesh"] } },
-    { icon: "layout", title: "CMS & Website Builders",
+      sq: { title: "Dizajn UI/UX", items: ["Figma", "Wireframing", "Prototipizim", "Dizajn ndërfaqesh"] }
+    },
+    {
+      icon: "layout", title: "CMS & Website Builders",
       items: ["WordPress", "Elementor", "Webflow", "Framer"],
-      sq: { title: "CMS & Ndërtues faqesh", items: ["WordPress", "Elementor", "Webflow", "Framer"] } },
-    { icon: "spark", title: "AI & Digital Tools",
+      sq: { title: "CMS & Ndërtues faqesh", items: ["WordPress", "Elementor", "Webflow", "Framer"] }
+    },
+    {
+      icon: "spark", title: "AI & Digital Tools",
       items: ["AI Tools", "AI-Assisted Workflows", "Digital Productivity Tools"],
-      sq: { title: "AI & Mjete digjitale", items: ["Mjete AI", "Punë e asistuar nga AI", "Mjete digjitale produktiviteti"] } }
+      sq: { title: "AI & Mjete digjitale", items: ["Mjete AI", "Punë e asistuar nga AI", "Mjete digjitale produktiviteti"] }
+    }
   ],
 
   /* ---------- PROJECTS -----------------------------------------------------
@@ -192,84 +204,136 @@ window.PORTFOLIO = {
   },
 
   certificates: [
-    { title: "Teaching and Learning with Generative AI", issuer: "Universum International College · Arizona State University",
+    {
+      title: "Teaching and Learning with Generative AI", issuer: "Universum International College · Arizona State University",
       date: "January 21, 2026", detail: "12 hours · Online, self-paced", group: "ai", featured: true,
       file: "qertifikata/generativeAI.png", thumb: "assets/thumbs/generativeai.jpg",
       alt: "Certificate of completion: Teaching and Learning with Generative AI, January 21, 2026",
-      sq: { date: "21 janar 2026", detail: "12 orë · Online, me ritëm vetanak",
-            alt: "Certifikatë përfundimi: Teaching and Learning with Generative AI, 21 janar 2026" } },
-    { title: "Figma Course", issuer: "Coding Training Academy",
+      sq: {
+        date: "21 janar 2026", detail: "12 orë · Online, me ritëm vetanak",
+        alt: "Certifikatë përfundimi: Teaching and Learning with Generative AI, 21 janar 2026"
+      }
+    },
+    {
+      title: "Figma Course", issuer: "Coding Training Academy",
       date: "March 5 – July 21, 2026", detail: "", group: "tech",
       file: "qertifikata/figma.png", thumb: "assets/thumbs/figma.jpg",
       alt: "Coding Training Academy certificate for the Figma course",
-      sq: { title: "Kursi Figma", date: "5 mars – 21 korrik 2026",
-            alt: "Certifikatë e Coding Training Academy për kursin Figma" } },
-    { title: "Understanding Data Sources", issuer: "Universum International College · Arizona State University",
+      sq: {
+        title: "Kursi Figma", date: "5 mars – 21 korrik 2026",
+        alt: "Certifikatë e Coding Training Academy për kursin Figma"
+      }
+    },
+    {
+      title: "Understanding Data Sources", issuer: "Universum International College · Arizona State University",
       date: "May 4, 2026", detail: "2 hours · Online, self-paced", group: "ai",
       file: "qertifikata/datasources.png", thumb: "assets/thumbs/datasources.jpg",
       alt: "Certificate of completion: Understanding Data Sources, May 4, 2026",
-      sq: { date: "4 maj 2026", detail: "2 orë · Online, me ritëm vetanak",
-            alt: "Certifikatë përfundimi: Understanding Data Sources, 4 maj 2026" } },
-    { title: "ASU VentureX – Startup Certificate", issuer: "Arizona State University · J. Orin Edson Entrepreneurship + Innovation Institute",
+      sq: {
+        date: "4 maj 2026", detail: "2 orë · Online, me ritëm vetanak",
+        alt: "Certifikatë përfundimi: Understanding Data Sources, 4 maj 2026"
+      }
+    },
+    {
+      title: "ASU VentureX – Startup Certificate", issuer: "Arizona State University · J. Orin Edson Entrepreneurship + Innovation Institute",
       date: "March 16, 2026", detail: "", group: "ai",
       file: "qertifikata/venturex.png", thumb: "assets/thumbs/venturex.jpg",
       alt: "Arizona State University certificate of completion: ASU VentureX Startup Certificate",
-      sq: { date: "16 mars 2026",
-            alt: "Certifikatë përfundimi e Arizona State University: ASU VentureX Startup Certificate" } },
-    { title: "WordPress Course", issuer: "Coding Training Academy",
+      sq: {
+        date: "16 mars 2026",
+        alt: "Certifikatë përfundimi e Arizona State University: ASU VentureX Startup Certificate"
+      }
+    },
+    {
+      title: "WordPress Course", issuer: "Coding Training Academy",
       date: "Issued February 16, 2026", detail: "Sept 16, 2025 – Feb 16, 2026", group: "tech",
       file: "qertifikata/wordpress.png", thumb: "assets/thumbs/wordpress.jpg",
       alt: "Coding Training Academy certificate for the WordPress course",
-      sq: { title: "Kursi WordPress", date: "Lëshuar më 16 shkurt 2026", detail: "16 shtator 2025 – 16 shkurt 2026",
-            alt: "Certifikatë e Coding Training Academy për kursin WordPress" } },
-    { title: "English Language – Intermediate 1", issuer: "Universum International College · Arizona State University",
+      sq: {
+        title: "Kursi WordPress", date: "Lëshuar më 16 shkurt 2026", detail: "16 shtator 2025 – 16 shkurt 2026",
+        alt: "Certifikatë e Coding Training Academy për kursin WordPress"
+      }
+    },
+    {
+      title: "English Language – Intermediate 1", issuer: "Universum International College · Arizona State University",
       date: "January 21, 2026", detail: "", group: "english",
       file: "qertifikata/intermediate1.png", thumb: "assets/thumbs/intermediate1.jpg",
       alt: "Certificate of completion: English Language Intermediate 1",
-      sq: { title: "Gjuha angleze – Intermediate 1", date: "21 janar 2026",
-            alt: "Certifikatë përfundimi: Gjuha angleze, niveli Intermediate 1" } },
-    { title: "English Language – Pre-Intermediate 2", issuer: "Universum International College · Arizona State University",
+      sq: {
+        title: "Gjuha angleze – Intermediate 1", date: "21 janar 2026",
+        alt: "Certifikatë përfundimi: Gjuha angleze, niveli Intermediate 1"
+      }
+    },
+    {
+      title: "English Language – Pre-Intermediate 2", issuer: "Universum International College · Arizona State University",
       date: "June 20, 2025", detail: "", group: "english",
       file: "qertifikata/pre-intermediate2.JPG", thumb: "assets/thumbs/pre-intermediate2.jpg",
       alt: "Certificate of completion: English Language Pre-Intermediate 2",
-      sq: { title: "Gjuha angleze – Pre-Intermediate 2", date: "20 qershor 2025",
-            alt: "Certifikatë përfundimi: Gjuha angleze, niveli Pre-Intermediate 2" } },
-    { title: "English Language – Pre-Intermediate 1", issuer: "Universum International College · Arizona State University",
+      sq: {
+        title: "Gjuha angleze – Pre-Intermediate 2", date: "20 qershor 2025",
+        alt: "Certifikatë përfundimi: Gjuha angleze, niveli Pre-Intermediate 2"
+      }
+    },
+    {
+      title: "English Language – Pre-Intermediate 1", issuer: "Universum International College · Arizona State University",
       date: "February 11, 2025", detail: "", group: "english",
       file: "qertifikata/pre-intermediate1.JPG", thumb: "assets/thumbs/pre-intermediate1.jpg",
       alt: "Certificate of completion: English Language Pre-Intermediate 1",
-      sq: { title: "Gjuha angleze – Pre-Intermediate 1", date: "11 shkurt 2025",
-            alt: "Certifikatë përfundimi: Gjuha angleze, niveli Pre-Intermediate 1" } },
-    { title: "Foundations for Excellence in Teaching", issuer: "Universum International College · Arizona State University",
+      sq: {
+        title: "Gjuha angleze – Pre-Intermediate 1", date: "11 shkurt 2025",
+        alt: "Certifikatë përfundimi: Gjuha angleze, niveli Pre-Intermediate 1"
+      }
+    },
+    {
+      title: "Foundations for Excellence in Teaching", issuer: "Universum International College · Arizona State University",
       date: "December 27, 2024", detail: "6 hours · Online, self-paced", group: "teaching",
       file: "qertifikata/teaching.JPG", thumb: "assets/thumbs/teaching.jpg",
       alt: "Certificate of completion: Foundations for Excellence in Teaching",
-      sq: { date: "27 dhjetor 2024", detail: "6 orë · Online, me ritëm vetanak",
-            alt: "Certifikatë përfundimi: Foundations for Excellence in Teaching" } },
-    { title: "Getting to Know Earth", issuer: "Universum International College · Arizona State University",
+      sq: {
+        date: "27 dhjetor 2024", detail: "6 orë · Online, me ritëm vetanak",
+        alt: "Certifikatë përfundimi: Foundations for Excellence in Teaching"
+      }
+    },
+    {
+      title: "Getting to Know Earth", issuer: "Universum International College · Arizona State University",
       date: "December 27, 2024", detail: "18 hours · Online, self-paced", group: "other",
       file: "qertifikata/earth.JPG", thumb: "assets/thumbs/earth.jpg",
       alt: "Certificate of completion: Getting to Know Earth",
-      sq: { date: "27 dhjetor 2024", detail: "18 orë · Online, me ritëm vetanak",
-            alt: "Certifikatë përfundimi: Getting to Know Earth" } },
-    { title: "English Language – Elementary 2", issuer: "Universum International College · Arizona State University",
+      sq: {
+        date: "27 dhjetor 2024", detail: "18 orë · Online, me ritëm vetanak",
+        alt: "Certifikatë përfundimi: Getting to Know Earth"
+      }
+    },
+    {
+      title: "English Language – Elementary 2", issuer: "Universum International College · Arizona State University",
       date: "July 15, 2024", detail: "", group: "english",
       file: "qertifikata/elementary2.JPG", thumb: "assets/thumbs/elementary2.jpg",
       alt: "Certificate of completion: English Language Elementary 2",
-      sq: { title: "Gjuha angleze – Elementary 2", date: "15 korrik 2024",
-            alt: "Certifikatë përfundimi: Gjuha angleze, niveli Elementary 2" } },
-    { title: "What is Innovation?", issuer: "Arizona State University · School for the Future of Innovation in Society",
+      sq: {
+        title: "Gjuha angleze – Elementary 2", date: "15 korrik 2024",
+        alt: "Certifikatë përfundimi: Gjuha angleze, niveli Elementary 2"
+      }
+    },
+    {
+      title: "What is Innovation?", issuer: "Arizona State University · School for the Future of Innovation in Society",
       date: "December 12, 2023", detail: "10 hours · Online", group: "ai",
       file: "qertifikata/innovation.JPG", thumb: "assets/thumbs/innovation.jpg",
       alt: "Arizona State University certificate of completion: What is Innovation?",
-      sq: { date: "12 dhjetor 2023", detail: "10 orë · Online",
-            alt: "Certifikatë përfundimi e Arizona State University: What is Innovation?" } },
-    { title: "Art / English Program: Certificate of Achievement", issuer: "Lutfi Musiqi Learning Center · Peace Corps Kosovo",
+      sq: {
+        date: "12 dhjetor 2023", detail: "10 orë · Online",
+        alt: "Certifikatë përfundimi e Arizona State University: What is Innovation?"
+      }
+    },
+    {
+      title: "Art / English Program: Certificate of Achievement", issuer: "Lutfi Musiqi Learning Center · Peace Corps Kosovo",
       date: "April 30, 2019", detail: "Recognized for participation", group: "early",
       file: "qertifikata/english.JPG", thumb: "assets/thumbs/english.jpg",
       alt: "Certificate of Achievement for participation in the Lutfi Musiqi Learning Center Art/English Program, April 30, 2019",
-      sq: { title: "Programi Art / Anglisht: Certifikatë arritjeje", date: "30 prill 2019", detail: "Njohje për pjesëmarrje",
-            alt: "Certifikatë arritjeje për pjesëmarrje në programin Art/Anglisht të Qendrës Mësimore Lutfi Musiqi, 30 prill 2019" } }
+      sq: {
+        title: "Programi Art / Anglisht: Certifikatë arritjeje", date: "30 prill 2019", detail: "Njohje për pjesëmarrje",
+        alt: "Certifikatë arritjeje për pjesëmarrje në programin Art/Anglisht të Qendrës Mësimore Lutfi Musiqi, 30 prill 2019"
+      }
+    }
   ],
 
   /* ---------- EXPERIENCE -------------------------------------------------- */
@@ -297,11 +361,15 @@ window.PORTFOLIO = {
 
   /* ---------- EDUCATION --------------------------------------------------- */
   education: [
-    { school: "Universum International College", field: "Computer Science",
+    {
+      school: "Universum International College", field: "Computer Science",
       years: "2023 – 2026", note: "Graduated",
-      sq: { field: "Shkenca Kompjuterike", note: "E diplomuar" } },
-    { school: "Eqrem Çabej High School, Vushtrri", field: "Social Sciences",
+      sq: { field: "Shkenca Kompjuterike", note: "E diplomuar" }
+    },
+    {
+      school: "Eqrem Çabej High School, Vushtrri", field: "Social Sciences",
       years: "2020 – 2023", note: "",
-      sq: { school: "Gjimnazi “Eqrem Çabej”, Vushtrri", field: "Shkenca Shoqërore" } }
+      sq: { school: "Gjimnazi “Eqrem Çabej”, Vushtrri", field: "Shkenca Shoqërore" }
+    }
   ]
 };
