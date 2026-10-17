@@ -76,7 +76,7 @@ window.PORTFOLIO = {
     {
       title: "LuxDrive",
       subtitle: "Luxury Car Rental Mobile App",
-      description: "A luxury car rental mobile app concept designed in Figma, featuring intuitive vehicle browsing, detailed car views, booking interfaces, messaging, and rental history.",
+      description: "A luxury car rental mobile app concept designed in Figma: vehicle browsing, detailed car views, booking, messaging and rental history.",
       status: "UI/UX Design · Personal project",
       tech: ["Figma", "UI/UX Design", "Mobile App Design", "Interactive Prototyping"],
       image: "assets/images/luxdrive-cover.png",
@@ -86,7 +86,7 @@ window.PORTFOLIO = {
       github: "", caseStudy: "",
       sq: {
         subtitle: "Aplikacion mobil për qira të veturave luksoze",
-        description: "Koncept aplikacioni mobil për qira të veturave luksoze, i dizajnuar në Figma, me shfletim intuitiv të automjeteve, pamje të detajuara të veturave, ndërfaqe rezervimi, mesazhe dhe historik qiramarrjesh.",
+        description: "Koncept aplikacioni mobil për qira të veturave luksoze, i dizajnuar në Figma: shfletim i automjeteve, pamje të detajuara, rezervime, mesazhe dhe historik qiramarrjesh.",
         status: "Dizajn UI/UX · Projekt personal",
         tech: ["Figma", "Dizajn UI/UX", "Dizajn aplikacionesh mobile", "Prototipizim interaktiv"],
         alt: "Dizajni UI/UX i aplikacionit mobil LuxDrive për qira të veturave luksoze, me tri ekrane mobile.",
@@ -96,7 +96,7 @@ window.PORTFOLIO = {
     {
       title: "Tesla Smart Cockpit",
       subtitle: "Interactive Vehicle Dashboard Concept",
-      description: "Tesla Smart Cockpit is a Tesla-inspired interactive vehicle dashboard concept designed in Figma. It explores a modern in-car user experience through intuitive vehicle controls, climate management, music playback, navigation, and personalized settings.",
+      description: "A Tesla-inspired interactive vehicle dashboard concept designed in Figma, exploring in-car controls, climate, music, navigation and personalized settings.",
       status: "UI/UX Design · Personal concept",   // independent concept, not affiliated with Tesla
       tech: ["Figma", "UI/UX Design", "Dashboard Design", "Interactive Prototyping"],
       image: "assets/images/tesla-smart-cockpit-cover.png",
@@ -106,7 +106,7 @@ window.PORTFOLIO = {
       github: "", caseStudy: "",
       sq: {
         subtitle: "Koncept i dashboard-it interaktiv të automjetit",
-        description: "Tesla Smart Cockpit është një koncept dashboard-i interaktiv i automjetit, i frymëzuar nga Tesla dhe i dizajnuar në Figma. Eksploron një përvojë moderne brenda veturës përmes kontrolleve intuitive të automjetit, menaxhimit të klimës, luajtjes së muzikës, navigimit dhe cilësimeve të personalizuara.",
+        description: "Koncept dashboard-i interaktiv i automjetit, i frymëzuar nga Tesla dhe i dizajnuar në Figma, që eksploron kontrollet brenda veturës, klimën, muzikën, navigimin dhe cilësimet e personalizuara.",
         status: "Dizajn UI/UX · Koncept personal",
         tech: ["Figma", "Dizajn UI/UX", "Dizajn dashboard-esh", "Prototipizim interaktiv"],
         alt: "Koncepti i dashboard-it interaktiv Tesla Smart Cockpit, dizajn UI/UX në Figma.",
@@ -116,7 +116,7 @@ window.PORTFOLIO = {
     {
       title: "TechnoX",
       subtitle: "Technology E-Commerce Website",
-      description: "TechnoX is a technology-focused e-commerce website built using WordPress, WooCommerce, and Elementor. The platform features an organized product catalog, detailed product pages, promotional offers, shopping cart functionality, and a responsive interface designed to deliver a convenient online shopping experience.",
+      description: "A technology e-commerce website built with WordPress, WooCommerce and Elementor, featuring a product catalog, detailed product pages, promotional offers, a shopping cart and a responsive interface.",
       status: "Web Development · WordPress e-commerce",
       tech: ["WordPress", "WooCommerce", "Elementor"],
       image: "assets/images/technox-cover.png",
@@ -126,7 +126,7 @@ window.PORTFOLIO = {
       github: "", caseStudy: "",
       sq: {
         subtitle: "Faqe e-commerce për teknologji",
-        description: "TechnoX është një faqe e-commerce e fokusuar te teknologjia, e ndërtuar me WordPress, WooCommerce dhe Elementor. Platforma ofron katalog të organizuar produktesh, faqe të detajuara produkti, oferta promocionale, funksionalitet shporte blerjesh dhe ndërfaqe responsive për një përvojë të përshtatshme blerjeje online.",
+        description: "Faqe e-commerce për teknologji, e ndërtuar me WordPress, WooCommerce dhe Elementor, me katalog produktesh, faqe të detajuara produkti, oferta promocionale, shportë blerjesh dhe ndërfaqe responsive.",
         status: "Zhvillim Web · E-commerce me WordPress",
         alt: "Faqja e-commerce TechnoX për teknologji, e ndërtuar me WordPress, WooCommerce dhe Elementor.",
         liveLabel: "Vizito faqen"
@@ -135,7 +135,7 @@ window.PORTFOLIO = {
     {
       title: "LM Academy",
       subtitle: "E-Learning Management Platform",
-      description: "LM Academy is a web-based e-learning platform developed collaboratively by a team during a software development bootcamp, where I took part as a team member. It is now used by Coding Training Academy to organize and manage online courses, with dedicated administrator and student dashboards, course management, enrollment tracking, learning progress monitoring, performance statistics, and interactive learning activities.",
+      description: "A web-based e-learning platform developed by a team during a software development bootcamp, where I took part as a team member. It is now used by Coding Training Academy to manage online courses, with administrator and student dashboards, course management, enrollment tracking, progress monitoring and performance statistics.",
       status: "Bootcamp Team Project",
       tech: ["Vue.js", "Laravel", "MySQL"],
       image: "assets/images/lm-academy-cover.png",
@@ -146,7 +146,7 @@ window.PORTFOLIO = {
       caseStudy: "Also features a scoreboard, interactive learning games, and course materials and modules.",
       sq: {
         subtitle: "Platformë për menaxhimin e e-learning",
-        description: "LM Academy është një platformë e-learning në web, e zhvilluar bashkëpunimisht nga një ekip gjatë një bootcamp-i të zhvillimit të softuerit, ku mora pjesë si anëtare e ekipit. Tash përdoret nga Coding Training Academy për të organizuar dhe menaxhuar kurset online, me dashboard-e të dedikuara për administratorët dhe studentët, menaxhim kursesh, ndjekje regjistrimesh, monitorim të progresit të mësimit, statistika të performancës dhe aktivitete interaktive mësimi.",
+        description: "Platformë e-learning në web, e zhvilluar nga një ekip gjatë një bootcamp-i të zhvillimit të softuerit, ku mora pjesë si anëtare e ekipit. Tash përdoret nga Coding Training Academy për menaxhimin e kurseve online, me dashboard-e për administratorët dhe studentët, menaxhim kursesh, ndjekje regjistrimesh, monitorim progresi dhe statistika performance.",
         status: "Projekt ekipor i bootcamp-it",
         alt: "Platforma e-learning LM Academy me dashboard-e për administratorët dhe studentët.",
         liveLabel: "Vizito platformën",
@@ -156,7 +156,7 @@ window.PORTFOLIO = {
     {
       title: "Enterprise DMS",
       subtitle: "Enterprise Document Management System",
-      description: "An enterprise document management system currently under development, designed to organize, upload, categorize, and manage business documents through a centralized platform. The project includes an administrative dashboard, document repository, upload interface, user management, and document classification options.",
+      description: "An enterprise document management system under development, built to organize, upload, categorize and manage business documents on a centralized platform, with an administrative dashboard, document repository, upload interface and user management.",
       status: "Web Application",
       stage: "In Development",   // optional badge; remove when the project is finished
       tech: ["PHP", "MySQL", "Docker", "API Integration"],
@@ -164,15 +164,15 @@ window.PORTFOLIO = {
       alt: "Enterprise Document Management System dashboard, document repository, and upload interface.",
       live: "",     // add a real URL later to show a button
       github: "",   // add a real repository URL later to show a button
-      caseStudy: "Designed and in progress: administrative dashboard, document repository, upload interface, user management, categorization, department classification, sensitivity levels and dashboard statistics.",
+      caseStudy: "Designed and in progress: document categorization, department classification, sensitivity levels and dashboard statistics.",
       sq: {
         subtitle: "Sistem për menaxhimin e dokumenteve të ndërmarrjes",
-        description: "Një sistem për menaxhimin e dokumenteve të ndërmarrjes, aktualisht në zhvillim, i krijuar për të organizuar, ngarkuar, kategorizuar dhe menaxhuar dokumente biznesi përmes një platforme të centralizuar. Projekti përfshin dashboard administrativ, depo dokumentesh, ndërfaqe ngarkimi, menaxhim përdoruesish dhe opsione klasifikimi të dokumenteve.",
+        description: "Sistem për menaxhimin e dokumenteve të ndërmarrjes, aktualisht në zhvillim, për të organizuar, ngarkuar, kategorizuar dhe menaxhuar dokumente biznesi në një platformë të centralizuar, me dashboard administrativ, depo dokumentesh, ndërfaqe ngarkimi dhe menaxhim përdoruesish.",
         status: "Aplikacion web",
         stage: "Në zhvillim",
         tech: ["PHP", "MySQL", "Docker", "Integrim API"],
         alt: "Dashboard-i i sistemit të menaxhimit të dokumenteve të ndërmarrjes, depoja e dokumenteve dhe ndërfaqja e ngarkimit.",
-        caseStudy: "Të dizajnuara dhe në proces: dashboard administrativ, depo dokumentesh, ndërfaqe ngarkimi, menaxhim përdoruesish, kategorizim, klasifikim sipas departamentit, nivele ndjeshmërie dhe statistika të dashboard-it."
+        caseStudy: "Të dizajnuara dhe në proces: kategorizim dokumentesh, klasifikim sipas departamentit, nivele ndjeshmërie dhe statistika të dashboard-it."
       }
     }
   ],

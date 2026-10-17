@@ -68,6 +68,7 @@ window.I18N = {
     "contact.label": "Contact",
     "contact.title": "Let's Build Something <em>Great</em> Together",
     "contact.text": "I'm open to opportunities in frontend development, web development, UI/UX design, and collaborative digital projects.",
+    "contact.cta": "Email me",
     "contact.email": "Email", "contact.phone": "Phone",
     "contact.empty": "Contact details are being updated. Please check back soon.",
 
@@ -140,6 +141,7 @@ window.I18N = {
     "contact.label": "Kontakti",
     "contact.title": "Le të ndërtojmë diçka <em>të shkëlqyer</em> bashkë",
     "contact.text": "Jam e hapur për mundësi në zhvillim frontend, zhvillim web, dizajn UI/UX dhe projekte dixhitale bashkëpunuese.",
+    "contact.cta": "Më shkruaj",
     "contact.email": "Email", "contact.phone": "Telefoni",
     "contact.empty": "Detajet e kontaktit po përditësohen. Kthehu së shpejti.",
 

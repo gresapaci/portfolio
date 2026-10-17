@@ -279,6 +279,8 @@
     if (safeUrl(c.linkedin)) row("LinkedIn", c.linkedin.replace(/^https?:\/\/(www\.)?/, "").split("?")[0], c.linkedin, true);
     if (safeUrl(c.github)) row("GitHub", c.github.replace(/^https?:\/\/(www\.)?/, "").split("?")[0], c.github, true);
     if (safeUrl(c.portfolio)) row("Portfolio", c.portfolio.replace(/^https?:\/\/(www\.)?/, "").split("?")[0], c.portfolio, true);
+    var cta = $("#contact-cta"), okMail = c.email && /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(c.email);
+    if (cta) { cta.hidden = !okMail; if (okMail) cta.href = "mailto:" + c.email; }
     $("#contact-links").innerHTML = rows.join("");
     $("#contact-links").hidden = !rows.length;
     $("#contact-empty").hidden = rows.length > 0;
