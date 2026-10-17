@@ -20,7 +20,7 @@ window.PORTFOLIO = {
     phone: "044 804 136",
     linkedin: "https://www.linkedin.com/in/gresa-paci",
     github: "https://github.com/gresapaci?tab=repositories",
-    portfolio: "https://gresapaci.github.io/portfolio/"
+    
   },
 
   /* ---------- SKILLS -------------------------------------------------------
